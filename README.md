@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![](https://img.shields.io/badge/Made_with-Sqlite3-white?style=for-the-badge&logo=Sqlite3)](https://www.mysql.com/ "MySQL")
+[![](https://img.shields.io/badge/Made_with-MySQL-white?style=for-the-badge&logo=Sqlite3)](https://www.mysql.com/ "MySQL")
 
 </div>
 
