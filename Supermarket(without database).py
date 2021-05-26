@@ -1,7 +1,3 @@
-#Creating overall display for buyer
-#view individual bills
-#segregating on the bases of name of customers
-
 class Seller:
     def __init__(self):
         self.product_quantity = {}
